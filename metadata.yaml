@@ -1,0 +1,28 @@
+_repo: Index-to-Kindergarten-Songs-Including-Singing-Games-and-Folk-Songs_38726
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38726-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quigley, Margery Closey
+    birthdate: 1886
+    gutenberg_agent_id: '38606'
+    url: http://www.gutenberg.org/2009/agents/38606
+description: ''
+gutenberg_issued: '2012-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38726'
+  lccn: unk84124012
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Preschool music -- Bibliography'
+- !lcsh 'School music -- Bibliography'
+- !lcsh 'Children''s songs -- Bibliography'
+title: Index to Kindergarten Songs Including Singing Games and Folk Songs
+url: http://www.gutenberg.org/ebooks/38726
